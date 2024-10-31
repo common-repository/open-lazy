@@ -1,0 +1,281 @@
+# Copyright (C) 2015 Open Lazy
+# This file is distributed under the same license as the Open Lazy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Lazy\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/open-lazy\n"
+"POT-Creation-Date: 2018-10-15 10:07+0800\n"
+"PO-Revision-Date: 2018-10-15 10:13+0800\n"
+"Last-Translator: Link <playes@qq.com>\n"
+"Language-Team: Link <playes@qq.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#. Plugin Name of the plugin/theme
+#: open-lazy.php:123 open-lazy.php:472
+msgid "Open Lazy"
+msgstr ""
+
+#: open-lazy.php:128
+msgid "Settings"
+msgstr "设置"
+
+#: open-lazy.php:144
+msgid "Plugin Rating"
+msgstr "插件评级"
+
+#: open-lazy.php:145
+msgid "For more information"
+msgstr "更多信息"
+
+#: open-lazy.php:146
+msgid "Check Update"
+msgstr "检查更新"
+
+#: open-lazy.php:147
+msgid "Donate"
+msgstr "捐赠"
+
+#: open-lazy.php:148
+msgid "More Plugins"
+msgstr "更多插件"
+
+#: open-lazy.php:149
+msgid "About"
+msgstr "关于"
+
+#: open-lazy.php:158 open-lazy.php:434 open-lazy.php:438 open-lazy.php:566
+msgid "Maintenance Mode"
+msgstr "维护模式"
+
+#: open-lazy.php:182
+msgid "Loaded: "
+msgstr "加载时间："
+
+#: open-lazy.php:182
+msgid "Queries: "
+msgstr "请求次数："
+
+#: open-lazy.php:209
+msgctxt "Word count type. Do not translate!"
+msgid "characters_excluding_spaces"
+msgstr ""
+
+#: open-lazy.php:434 open-lazy.php:439 open-lazy.php:484 open-lazy.php:534
+#: open-lazy.php:554 open-lazy.php:568
+msgid "Enabled"
+msgstr "启用"
+
+#: open-lazy.php:477
+msgid "Tweak"
+msgstr "优化调整"
+
+#: open-lazy.php:478
+msgid "Maintain"
+msgstr "内容维护"
+
+#: open-lazy.php:479
+msgid "Misc"
+msgstr "杂项"
+
+#: open-lazy.php:482
+msgid "Pack"
+msgstr "打包"
+
+#: open-lazy.php:485
+msgid "Load in footer"
+msgstr "在页脚中加载"
+
+#: open-lazy.php:487
+msgid "Style Path"
+msgstr "样式路径"
+
+#: open-lazy.php:490
+msgid "Script Path"
+msgstr "脚本路径"
+
+#: open-lazy.php:495
+msgid "Style / Script unpack"
+msgstr "不打包的样式/脚本"
+
+#: open-lazy.php:497
+msgid "Styles unload"
+msgstr "不加载的样式"
+
+#: open-lazy.php:500
+msgid "Generate Packer"
+msgstr "生成打包文件"
+
+#: open-lazy.php:501
+msgid "Delete Packer"
+msgstr "删除打包文件"
+
+#: open-lazy.php:512 open-lazy.php:523
+msgid "Packed"
+msgstr "已打包"
+
+#: open-lazy.php:515 open-lazy.php:526
+msgid "Unpack"
+msgstr "未打包"
+
+#: open-lazy.php:532
+msgid "Prefetch"
+msgstr "预加载"
+
+#: open-lazy.php:538
+msgid "Unload"
+msgstr "不加载"
+
+#: open-lazy.php:552
+msgid "HTML"
+msgstr "网页代码"
+
+#: open-lazy.php:555
+msgid "HTML compress"
+msgstr "代码压缩"
+
+#: open-lazy.php:556
+msgid "Display loaded speed"
+msgstr "显示页面加载速率"
+
+#: open-lazy.php:557
+msgid "Find Strings in Content"
+msgstr "正文中查找"
+
+#: open-lazy.php:558
+msgid "Replace Strings in Content"
+msgstr "正文中替换为"
+
+#: open-lazy.php:569
+msgid "<h1>Website Under Maintenance</h1><p>Please come back later.</p>"
+msgstr "<h1>网站正在维护</h1><p>请稍后再来。</p>"
+
+#: open-lazy.php:571
+msgid "Remember to flush your cache if some cache plugins installed"
+msgstr "如果安装了某些缓存插件，请刷新缓存"
+
+#: open-lazy.php:572
+msgid "Preview"
+msgstr "预览效果"
+
+#: open-lazy.php:576
+msgid "Replace API"
+msgstr "替换系统接口"
+
+#: open-lazy.php:583
+msgid "UI"
+msgstr "界面"
+
+#: open-lazy.php:585
+msgid "Remove Emoji"
+msgstr "删除 Emoji"
+
+#: open-lazy.php:586
+msgid "Disable Open-Sans"
+msgstr "禁用谷歌字体"
+
+#: open-lazy.php:588
+msgid "Enable Font-Awesome"
+msgstr "启用 Font-Awesome"
+
+#: open-lazy.php:593
+msgid "Extension"
+msgstr "扩展"
+
+#: open-lazy.php:595
+msgid "Filter login page linker to local site"
+msgstr "将登陆页面的图片连接改为本地连接"
+
+#: open-lazy.php:596
+msgid "Remove version of resource file"
+msgstr "删除资源文件请求地址的版本号"
+
+#: open-lazy.php:597
+msgid "Make admin bar visit-site link top and new"
+msgstr "管理条的查看网站连接可见及新开"
+
+#: open-lazy.php:598
+msgid "Fix word count for East Asian characters"
+msgstr "修正汉字字体长度计算逻辑"
+
+#: open-lazy.php:599
+msgid "Disable post revisions"
+msgstr "禁用文章版本修订"
+
+#: open-lazy.php:600
+msgid "Enable shortcodes in sidebar widgets"
+msgstr "在边栏小部件中启用简码"
+
+#: open-lazy.php:601
+msgid "Redirect attachment page to the post attached"
+msgstr "附件页自动跳转到所属文章"
+
+#: open-lazy.php:602
+msgid "Adapted to browser language when none was set"
+msgstr "当未设定语言时自适应浏览器语言"
+
+#: open-lazy.php:603
+msgid "Disable update notification of plugins that active"
+msgstr "不接收激活插件的更新提醒"
+
+#: open-lazy.php:604
+msgid "Disable update notification of plugins that inactive"
+msgstr "不接收非激活插件的更新提醒"
+
+#: open-lazy.php:605
+msgid "Disable heartbeat in admin-panel"
+msgstr "管理后台禁用心跳轮询请求"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.xiaomac.com/2015101692.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A handy toolkit can easily tweak up and speed up your wordpress, more "
+"simple, more natural."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Link"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.xiaomac.com/"
+msgstr ""
+
+#~ msgid "Upload Base Path"
+#~ msgstr "上传基础路径"
+
+#~ msgid "Visit Base Path"
+#~ msgstr "访问基础路径"
+
+#~ msgid "Show More"
+#~ msgstr "显示更多"
+
+#~ msgid "Debug"
+#~ msgstr "调试"
+
+#~ msgid "EXECUTE"
+#~ msgstr "执行"
+
+#~ msgid "BACK"
+#~ msgstr "返回"
+
+#~ msgid "Load packed script in footer"
+#~ msgstr "在底部加载打包脚本"
+
+#~ msgid "Styles disabled"
+#~ msgstr "禁用的样式"
+
+#~ msgid "Please save first then generate or delete"
+#~ msgstr "请先保存然后再进行生成或删除"
+
+#~ msgid "Remember to flush your cahce if some cache plugins installed"
+#~ msgstr "如果安装了缓存插件请记得清除缓存"
+
+#~ msgid "Force site protocol to HTTPS"
+#~ msgstr "访问网站强制跳转到 HTTPS"

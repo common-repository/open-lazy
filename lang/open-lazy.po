@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Lazy\n"
+"POT-Creation-Date: 2018-10-15 10:07+0800\n"
+"PO-Revision-Date: 2018-10-15 10:07+0800\n"
+"Last-Translator: Link <playes@qq.com>\n"
+"Language-Team: Link <playes@qq.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: open-lazy.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: open-lazy.php:123 open-lazy.php:472
+msgid "Open Lazy"
+msgstr ""
+
+#: open-lazy.php:128
+msgid "Settings"
+msgstr ""
+
+#: open-lazy.php:144
+msgid "Plugin Rating"
+msgstr ""
+
+#: open-lazy.php:145
+msgid "For more information"
+msgstr ""
+
+#: open-lazy.php:146
+msgid "Check Update"
+msgstr ""
+
+#: open-lazy.php:147
+msgid "Donate"
+msgstr ""
+
+#: open-lazy.php:148
+msgid "More Plugins"
+msgstr ""
+
+#: open-lazy.php:149
+msgid "About"
+msgstr ""
+
+#: open-lazy.php:158 open-lazy.php:434 open-lazy.php:438 open-lazy.php:566
+msgid "Maintenance Mode"
+msgstr ""
+
+#: open-lazy.php:182
+msgid "Loaded: "
+msgstr ""
+
+#: open-lazy.php:182
+msgid "Queries: "
+msgstr ""
+
+#: open-lazy.php:209
+msgctxt "Word count type. Do not translate!"
+msgid "characters_excluding_spaces"
+msgstr ""
+
+#: open-lazy.php:434 open-lazy.php:439 open-lazy.php:484 open-lazy.php:534
+#: open-lazy.php:554 open-lazy.php:568
+msgid "Enabled"
+msgstr ""
+
+#: open-lazy.php:477
+msgid "Tweak"
+msgstr ""
+
+#: open-lazy.php:478
+msgid "Maintain"
+msgstr ""
+
+#: open-lazy.php:479
+msgid "Misc"
+msgstr ""
+
+#: open-lazy.php:482
+msgid "Pack"
+msgstr ""
+
+#: open-lazy.php:485
+msgid "Load in footer"
+msgstr ""
+
+#: open-lazy.php:487
+msgid "Style Path"
+msgstr ""
+
+#: open-lazy.php:490
+msgid "Script Path"
+msgstr ""
+
+#: open-lazy.php:495
+msgid "Style / Script unpack"
+msgstr ""
+
+#: open-lazy.php:497
+msgid "Styles unload"
+msgstr ""
+
+#: open-lazy.php:500
+msgid "Generate Packer"
+msgstr ""
+
+#: open-lazy.php:501
+msgid "Delete Packer"
+msgstr ""
+
+#: open-lazy.php:512 open-lazy.php:523
+msgid "Packed"
+msgstr ""
+
+#: open-lazy.php:515 open-lazy.php:526
+msgid "Unpack"
+msgstr ""
+
+#: open-lazy.php:532
+msgid "Prefetch"
+msgstr ""
+
+#: open-lazy.php:538
+msgid "Unload"
+msgstr ""
+
+#: open-lazy.php:552
+msgid "HTML"
+msgstr ""
+
+#: open-lazy.php:555
+msgid "HTML compress"
+msgstr ""
+
+#: open-lazy.php:556
+msgid "Display loaded speed"
+msgstr ""
+
+#: open-lazy.php:557
+msgid "Find Strings in Content"
+msgstr ""
+
+#: open-lazy.php:558
+msgid "Replace Strings in Content"
+msgstr ""
+
+#: open-lazy.php:569
+msgid "<h1>Website Under Maintenance</h1><p>Please come back later.</p>"
+msgstr ""
+
+#: open-lazy.php:571
+msgid "Remember to flush your cache if some cache plugins installed"
+msgstr ""
+
+#: open-lazy.php:572
+msgid "Preview"
+msgstr ""
+
+#: open-lazy.php:576
+msgid "Replace API"
+msgstr ""
+
+#: open-lazy.php:583
+msgid "UI"
+msgstr ""
+
+#: open-lazy.php:585
+msgid "Remove Emoji"
+msgstr ""
+
+#: open-lazy.php:586
+msgid "Disable Open-Sans"
+msgstr ""
+
+#: open-lazy.php:588
+msgid "Enable Font-Awesome"
+msgstr ""
+
+#: open-lazy.php:593
+msgid "Extension"
+msgstr ""
+
+#: open-lazy.php:595
+msgid "Filter login page linker to local site"
+msgstr ""
+
+#: open-lazy.php:596
+msgid "Remove version of resource file"
+msgstr ""
+
+#: open-lazy.php:597
+msgid "Make admin bar visit-site link top and new"
+msgstr ""
+
+#: open-lazy.php:598
+msgid "Fix word count for East Asian characters"
+msgstr ""
+
+#: open-lazy.php:599
+msgid "Disable post revisions"
+msgstr ""
+
+#: open-lazy.php:600
+msgid "Enable shortcodes in sidebar widgets"
+msgstr ""
+
+#: open-lazy.php:601
+msgid "Redirect attachment page to the post attached"
+msgstr ""
+
+#: open-lazy.php:602
+msgid "Adapted to browser language when none was set"
+msgstr ""
+
+#: open-lazy.php:603
+msgid "Disable update notification of plugins that active"
+msgstr ""
+
+#: open-lazy.php:604
+msgid "Disable update notification of plugins that inactive"
+msgstr ""
+
+#: open-lazy.php:605
+msgid "Disable heartbeat in admin-panel"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.xiaomac.com/2015101692.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A handy toolkit can easily tweak up and speed up your wordpress, more "
+"simple, more natural."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Link"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.xiaomac.com/"
+msgstr ""
